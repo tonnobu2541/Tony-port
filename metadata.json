@@ -1,0 +1,5 @@
+{
+  "name": "Wedding Quiz Real-time",
+  "description": "A real-time multiplayer wedding quiz game with live stats and leaderboard.",
+  "requestFramePermissions": []
+}
